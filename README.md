@@ -1,2 +1,1 @@
-# shipdetection
-repo for ship detection
+# Code for ship detection on Sentinel-2 images.
